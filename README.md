@@ -4,6 +4,7 @@
 
 ## 📄 참고 논문
 **LDAM: Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss**
+
 https://arxiv.org/abs/1906.07413
 
 ## 👥 팀원
@@ -64,6 +65,7 @@ https://arxiv.org/abs/1906.07413
 3. python CE_evaluate.py
     - 실행 시 model/best~~.pth 파일을 통해 평가 시작
     - 결과 csv 파일 저장되는 것 확인
+    - 현재 결과 파일은 이미 존재함
 
 **Focal loss CIFAR100 데이터 기반 실험**
 
@@ -76,5 +78,5 @@ https://arxiv.org/abs/1906.07413
 3. python Focal_evaluate.py
     - 실행 시 model/best~~.pth 파일을 통해 평가 시작
     - 결과 csv 파일 저장되는 것 확인
-
+    - 현재 결과 파일은 이미 존재함
 
